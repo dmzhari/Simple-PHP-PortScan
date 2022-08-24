@@ -1,2 +1,6 @@
 # Simple-PHP-PortScan
-Simple Portscan PHP
+
+## How To Use
+```
+php port.php example.com
+```
