@@ -48,5 +48,3 @@ if (!$argv[1]) {
         }
     }
 }
-
-// $run->url = 'mysch.id';
