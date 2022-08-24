@@ -2,6 +2,7 @@
 ini_set('max_execution_time', 0);
 ini_set('memory_limit', -1);
 ini_set('error_reporting', 0);
+clearstatcache();
 
 if (!$argv[1]) {
     echo "How to use : php port.php example.com";
